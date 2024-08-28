@@ -1,6 +1,6 @@
 //Name:Devkarthik
 //PRN: 23070123045
-//Aim: To use call by reference
+//Aim: To use call by reference.
 #include <iostream>
 #include<string>
 using namespace std;
@@ -19,7 +19,7 @@ int main() {
     return 0;
 }
 
-/* oUTPUT
+/* OUTPUT
 Value of the a is:2
 Value of the b is:5
 */
